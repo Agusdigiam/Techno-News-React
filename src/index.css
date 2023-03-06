@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #0F2027;
+  background: -webkit-linear-gradient(to left, #2C5364, #203A43, #0F2027); 
+  background: linear-gradient(to left, #2C5364, #203A43, #0F2027);
+  font-family: 'Prompt', sans-serif; 
+}
+.ico-main{
+  width: 70px;
+  height: 63px;
+ 
+}
+.Title-main{
+  display: flex;
+  color: white;
+  font-size: 68px;
+}
+.Nav-main-menu li{
+  color: white;
+  display: inline;
+  font-size: 20px;
+  text-decoration: underline 0.1px;
+  padding-right: 15px;
+  justify-content: space-between;
+  float: right;
+  cursor: pointer;
+  padding-bottom: 314px;
+
+}
